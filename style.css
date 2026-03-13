@@ -233,8 +233,8 @@ width:90%;
 .book-service:hover{
     transform: rotate(-5deg) ;
     font-size: 18px;
-    width: 40%;
     transition: 0.6s ease;
     
 
 }
+
